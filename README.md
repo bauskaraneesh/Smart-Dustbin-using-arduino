@@ -9,7 +9,7 @@ _The following hardware components are required for this project:_
 Arduino Uno
 Ultrasonic sensor HC-SR04
 Servo motor
-LCD screen
+LCD display
 Buzzer
 Jumper wires
 Breadboard
