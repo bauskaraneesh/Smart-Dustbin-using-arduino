@@ -2,18 +2,6 @@
 
 The Smart Dustbin is a project that uses Arduino to create a smart dustbin that can automatically open and close its lid, and also indicate whether it is full or not. The Smart Dustbin uses two ultrasonic sensors, one to detect objects in close proximity and the other to detect the level of trash in the bin. When an object is detected by the first sensor, the lid of the bin will open automatically. When the level of trash in the bin reaches a certain threshold, the second sensor will detect this and a buzzer will sound to indicate that the bin is full. The level of trash in the bin will also be displayed on an LCD screen.
 
-**Hardware**
-
-_The following hardware components are required for this project:_
-
-Arduino Uno
-Ultrasonic sensor HC-SR04
-Servo motor
-LCD display
-Buzzer
-Jumper wires
-Breadboard
-
 **Circuit Diagram**
 ![Screenshot 2023-06-15 224629](https://github.com/bauskaraneesh/Smart-Dustbin-using-arduino/assets/132990280/891e5bb3-2af1-4833-88fc-c6c24228aa7b)
 
