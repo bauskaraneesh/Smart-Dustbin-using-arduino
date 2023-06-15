@@ -17,7 +17,7 @@ Breadboard
 **Circuit Diagram**
 ![Screenshot 2023-06-15 224629](https://github.com/bauskaraneesh/Smart-Dustbin-using-arduino/assets/132990280/891e5bb3-2af1-4833-88fc-c6c24228aa7b)
 
-`**Code Working**`
+**Code Working**
 The Smart Dustbin project aims to create an automated waste management system using Arduino and ultrasonic sensors. The dustbin is equipped with two ultrasonic sensors: one to detect the fill level of the dustbin and the other to open the door when an object approaches. The system also includes a buzzer to alert when the dustbin is full and an LCD display to show the fill level.
 
 When the first ultrasonic sensor detects the fill level of the dustbin, it sends the data to the Arduino. If the dustbin is full, the Arduino triggers the buzzer to turn on, indicating that it needs to be emptied. The second ultrasonic sensor is positioned near the door of the dustbin. When an object comes near the sensor, the Arduino detects the proximity and opens the door to allow the user to dispose of waste.
