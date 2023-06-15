@@ -6,13 +6,13 @@ The Smart Dustbin is a project that uses Arduino to create a smart dustbin that 
 
 _The following hardware components are required for this project:_
 
-1.Arduino Uno
-2.Ultrasonic sensor HC-SR04
-3.Servo motor
-4.LCD screen
-5.Buzzer
-6.Jumper wires
-7.Breadboard
+Arduino Uno
+Ultrasonic sensor HC-SR04
+Servo motor
+LCD screen
+Buzzer
+Jumper wires
+Breadboard
 
 **Circuit Diagram**
 ![Screenshot 2023-06-15 224629](https://github.com/bauskaraneesh/Smart-Dustbin-using-arduino/assets/132990280/891e5bb3-2af1-4833-88fc-c6c24228aa7b)
